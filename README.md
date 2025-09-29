@@ -47,7 +47,7 @@ fruit-api/
 ```
 GET http://localhost/fruit-api/products/getAll.php
 ```
-![](/JPG/GET.PNG)
+![](/JPG/GET.png)
 
 ### 2. ดูสินค้า 1 รายการ
 ```
@@ -71,7 +71,7 @@ Body:
 "
 }
 ```
-![](/JPG/POST.PNG)
+![](/JPG/POST.png)
 
 ### 4. แก้ไขสินค้า (PUT)
 ```
@@ -89,7 +89,7 @@ Body:
 "
 }
 ```
-![](/JPG/PUT.PNG)
+![](/JPG/PUT.png)
 
 ### 5. ลบสินค้า (DELETE)
 DELETE http://localhost/fruit-api/products/delete.php?id=1
@@ -112,6 +112,6 @@ DELETE http://localhost/fruit-api/products/delete.php?id=1
 ]
 
 ```
-![](/JPG/DEL.PNG)
+![](/JPG/DEL.png)
 
 
